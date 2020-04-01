@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Robert White](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frobert-white-71a176&psig=AOvVaw3KEcGZX2qLFPlVIOCAimzj&ust=1585841800707000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPi5-J7Hx-gCFQAAAAAdAAAAABAD)
