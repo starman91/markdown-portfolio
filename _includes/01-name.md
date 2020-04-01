@@ -1,2 +1,2 @@
-# Your Overlord #
-### Robert White ###
+# Robert White #
+### Photovolatic Researcher, Astronomer, Naturalist, Gentleman ###
