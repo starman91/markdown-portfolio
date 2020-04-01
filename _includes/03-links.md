@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Google Scholar] (https://scholar.google.com/citations?user=Q2UVkdqUklIC&hl=en)
